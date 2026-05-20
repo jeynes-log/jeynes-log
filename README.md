@@ -1,5 +1,5 @@
 <!--
-**redonearth/redonearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jeynes-log/jeynes-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 😎 Redonearth
+### 😎 Jeynes
 
 <div align="left">
   <span>
-    Hi, I am a junior front-end developer 🤚🏻  
+    Hi, I am a front-end developer 🤚🏻  
   </span>
   
   ---
